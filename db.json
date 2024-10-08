@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Тур в Париж",
+      "description": "3 дня, 2 ночи",
+      "price": 37800,
+      "category": "Европа",
+      "images": [
+        "https://attaches.1001tur.ru/hotels/gallery/3727/158142707363969eb0ed42cc34fc4831086d19953a937.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/3727/1831427073639ff3ecca4e0ca42ccb9ca13cca64e13c7.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/3727/231427073639419354905491416f94369df3975a0f27.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Тур в Рим",
+      "description": "5 дней, 4 ночи",
+      "price": 58900,
+      "category": "Европа",
+      "images": [
+        "https://www.sodis.ru/imageservlet?id=564050354",
+        "https://www.sodis.ru/imageservlet?id=564050852",
+        "https://www.sodis.ru/imageservlet?id=564050657"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Тур в Нью-Йорк",
+      "description": "7 дней, 6 ночей",
+      "price": 67000,
+      "category": "Северная Америка",
+      "images": [
+        "https://attaches.1001tur.ru/hotels/gallery/727761/22761670770095.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/727761/21731670770098.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/727761/32141670770113.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Тур в Токио",
+      "description": "10 дней, 9 ночей",
+      "price": 69000,
+      "category": "Азия",
+      "images": [
+        "https://attaches.1001tur.ru/hotels/gallery/7850/16251596708879.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/7850/55851596708880.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/7850/52301596708898.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Тур в Сидней",
+      "description": "14 дней, 13 ночей",
+      "price": 71500,
+      "category": "Австралия",
+      "images": [
+        "https://attaches.1001tur.ru/hotels/gallery/549950/53081504535263.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/549950/89801504535264.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/549950/63451504535264.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Тур в Рио-де-Жанейро",
+      "description": "10 дней, 9 ночей",
+      "price": 90500,
+      "category": "Южная Америка",
+      "images": [
+        "https://attaches.1001tur.ru/hotels/gallery/585086/9811505365154.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/585086/25341505365154.jpg",
+        "https://attaches.1001tur.ru/hotels/gallery/585086/73651505365157.jpg"
+      ]
+    }
+  ]
+}
